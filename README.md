@@ -1,3 +1,3 @@
 # blog-react-django
 --------------------
-## use react and django to create a blog
+## Use react and django (django rest framework) to create a blog
