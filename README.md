@@ -4,9 +4,9 @@
 ### *Notes*
 ### 1. Install `django-webpack-loader` and insert `webpack_loader` to `INSTALLED_APPS`,add 
 >`WEBPACK_LOADER = {
-  'DEFAULT': {
-    'BUNDLE_DIR_NAME': 'bundles/', 'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.dev.json'),
-  }
+>  'DEFAULT': {
+>    'BUNDLE_DIR_NAME': 'bundles/', 'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.dev.json'),
+>  }
 >}` 
 under settings.py.
 ### 2. Install `webpack-bundle-tracker --save-dev` in frontend(React Root Directory), modify
