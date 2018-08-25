@@ -1,6 +1,6 @@
 # blog-react-django
 --------------------
-## Use react and django (plugins: *django-webpack-loader* and *webpack-bundle-tracker*) to create a blog
+## Use react and django (plugins: *django-webpack-loader* and *webpack-bundle-tracker*) to create a blog ('node_modules' in the .gitignore)
 ### *Notes:*
 ### 1. Install `django-webpack-loader` and insert `webpack_loader` to `INSTALLED_APPS`,add 
         
