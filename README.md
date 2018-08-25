@@ -9,8 +9,8 @@
             'BUNDLE_DIR_NAME': 'bundles/', 'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.dev.json'),
           }
         }
-        
 ###     under settings.py.
+
 ### 2. Install `webpack-bundle-tracker --save-dev` in frontend(React Root Directory), modify
         module.exports = {
           // no change with other values
